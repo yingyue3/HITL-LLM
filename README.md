@@ -19,10 +19,12 @@ Keyword match: harness human feedback for instructional visual editing, introduc
 
 Keyword match: In this paper, we show an avenue for aligning language models with user intent on a wide range of tasks by fine-tuning with human feedback
 
-
-## Human Preference
 - [Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog](https://arxiv.org/abs/1907.00456) 30 Jun 2019
 
 Keyword match: extract multiple different reward functions post-hoc from collected human interaction data, applying RL to real-world problems
+
+- [Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582) 16 Feb 2023
+
+keyword match: pretraining with human feedback
 
 
