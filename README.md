@@ -27,4 +27,10 @@ Keyword match: extract multiple different reward functions post-hoc from collect
 
 keyword match: pretraining with human feedback
 
+-------Update at 2023.6.13-----------
+
+- [Languages are Rewards: Chain of Hindsight Finetuning using Human Feedback] (https://arxiv.org/pdf/2302.02676.pdf) 25 Mar 2023
+
+
+
 
