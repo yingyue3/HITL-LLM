@@ -7,7 +7,7 @@ few keywords: HITL, RLHF, aligning, human feedback, human preference, reasoning,
 
 Keyword match: fine-tuning with human-feedback, aligning language models with human intent
 
-- [ ] [Aligning Text-to-Image Models using Human Feedback](https://arxiv.org/abs/2302.12192) 23 Feb 2023
+- [x] [Aligning Text-to-Image Models using Human Feedback](https://arxiv.org/abs/2302.12192) 23 Feb 2023
 
 Keyword mathch: use the human-labeled image-text dataset to train a reward function that predicts human feedback, aligning such models using human feedback
 
@@ -42,7 +42,9 @@ keyword match: pretraining with human feedback
 - [ ] [Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control](https://arxiv.org/pdf/2211.05750.pdf) 10 Nov 2022
 - [ ] [Towards Boosting the Open-Domain Chatbot with Human Feedback](https://arxiv.org/pdf/2208.14165.pdf) 30 August 2022
 - [ ] [Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor](https://arxiv.org/pdf/2212.09689.pdf) 19 December 2022
-
+- [ ] [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf) 8 Jan 2023
+- [ ] [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332.pdf) 1 Jun 2022
+- [ ] [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/pdf/2303.14420.pdf) 25 Mar 2023
 
 HITL related survey:
 - [ ] [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/pdf/2305.00955.pdf) 1 June 2023
