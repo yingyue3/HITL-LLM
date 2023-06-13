@@ -29,12 +29,12 @@ keyword match: pretraining with human feedback
 
 -------Update at 2023.6.13-----------
 
-- [Languages are Rewards: Chain of Hindsight Finetuning using Human Feedback] (https://arxiv.org/pdf/2302.02676.pdf) 25 Mar 2023
+- [Languages are Rewards: Chain of Hindsight Finetuning using Human Feedback](https://arxiv.org/pdf/2302.02676.pdf) 25 Mar 2023
 - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/pdf/2305.03047.pdf) 4 May 2023
-- [RRHF: Rank Responses to Align Language Models with Human Feedback without tears] (https://arxiv.org/pdf/2304.05302.pdf) 22 May 2023
-- [AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback] (https://arxiv.org/pdf/2305.14387.pdf) 22 May 2023
-- [Analyzing Influential Factors in Human Preference Judgments via GPT-4] (https://arxiv.org/pdf/2305.14702.pdf) 24 May 2023
-- [Human-in-the-Loop Interaction for continuously Improving Generative Model in Conversational Agent for Behavioral Intervention] (https://dl.acm.org/doi/pdf/10.1145/3581754.3584142) 27 March 2023
+- [RRHF: Rank Responses to Align Language Models with Human Feedback without tears](https://arxiv.org/pdf/2304.05302.pdf) 22 May 2023
+- [AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback](https://arxiv.org/pdf/2305.14387.pdf) 22 May 2023
+- [Analyzing Influential Factors in Human Preference Judgments via GPT-4](https://arxiv.org/pdf/2305.14702.pdf) 24 May 2023
+- [Human-in-the-Loop Interaction for continuously Improving Generative Model in Conversational Agent for Behavioral Intervention](https://dl.acm.org/doi/pdf/10.1145/3581754.3584142) 27 March 2023
 - 
 
 
