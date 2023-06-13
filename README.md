@@ -3,7 +3,7 @@
 few keywords: HITL, RLHF, aligning, human feedback, human preference, reasoning, LLM, Transformers
 
 ## Human Feedback
-- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) 4 Mar 2022
+- [] [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) 4 Mar 2022
 
 Keyword match: fine-tuning with human-feedback, aligning language models with human intent
 
