@@ -41,6 +41,7 @@ keyword match: pretraining with human feedback
 - [Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://arxiv.org/pdf/2305.14975.pdf) 24 May 2023
 - [Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control](https://arxiv.org/pdf/2211.05750.pdf) 10 Nov 2022
 - [Towards Boosting the Open-Domain Chatbot with Human Feedback](https://arxiv.org/pdf/2208.14165.pdf) 30 August 2022
+- [Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor](https://arxiv.org/pdf/2212.09689.pdf) 19 December 2022
 
 
 HITL related survey:
