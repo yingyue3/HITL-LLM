@@ -35,12 +35,17 @@ keyword match: pretraining with human feedback
 - [AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback](https://arxiv.org/pdf/2305.14387.pdf) 22 May 2023
 - [Analyzing Influential Factors in Human Preference Judgments via GPT-4](https://arxiv.org/pdf/2305.14702.pdf) 24 May 2023
 - [Human-in-the-Loop Interaction for continuously Improving Generative Model in Conversational Agent for Behavioral Intervention](https://dl.acm.org/doi/pdf/10.1145/3581754.3584142) 27 March 2023
+- [ILLUME: Rationalizing Vision-Language Models through Human Interactions](https://arxiv.org/pdf/2208.08241.pdf) 31 May 2023
+- [ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation](https://arxiv.org/pdf/2304.05977.pdf) 6 Jun 2023
+- [Improving Multimodal Interactive Agents with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2211.11602.pdf) 21 Nov 2022
+- [Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://arxiv.org/pdf/2305.14975.pdf) 24 May 2023
+- [Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control](https://arxiv.org/pdf/2211.05750.pdf) 10 Nov 2022
 - 
 
 
 
 HITL related survey:
-- [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation] (https://arxiv.org/pdf/2305.00955.pdf) 1 June 2023
+- [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/pdf/2305.00955.pdf) 1 June 2023
 
 
 
