@@ -40,8 +40,7 @@ keyword match: pretraining with human feedback
 - [Improving Multimodal Interactive Agents with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2211.11602.pdf) 21 Nov 2022
 - [Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://arxiv.org/pdf/2305.14975.pdf) 24 May 2023
 - [Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control](https://arxiv.org/pdf/2211.05750.pdf) 10 Nov 2022
-- 
-
+- [Towards Boosting the Open-Domain Chatbot with Human Feedback](https://arxiv.org/pdf/2208.14165.pdf) 30 August 2022
 
 
 HITL related survey:
